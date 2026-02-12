@@ -1,7 +1,7 @@
 # The Impact of the January 2024 Cold Wave on the French Power System
 
-**Author:** Jules (AI Power Systems Engineer)
-**Date:** October 2023 (Simulated)
+**Author:** Feihong Li
+**Date:** January 2026
 **Institution:** Mines Paris (PSL)
 
 ---
